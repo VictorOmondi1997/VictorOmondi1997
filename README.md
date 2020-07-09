@@ -2,7 +2,7 @@
 
 <!--
 **VictorOmondi1997/VictorOmondi1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-![Victor Omondi Poster](Victor Omondi.png)
+![Victor Omondi Poster]("Victor Omondi.png")
 
 Here is a snapshot about me:
 

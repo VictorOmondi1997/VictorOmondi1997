@@ -3,7 +3,7 @@
 <!--
 **VictorOmondi1997/VictorOmondi1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-![](vick-cover.gif)
+![Vick-Cover](https://github.com/VictorOmondi1997/VictorOmondi1997/blob/master/vick-cover.gif?raw=true)
 
 Here is a snapshot about me:
 

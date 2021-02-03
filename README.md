@@ -12,7 +12,7 @@ Here is a snapshot about me:
 - 👯 I’m looking to collaborate on any data science open source or project
 - 🤔 I’m looking for help with Data Structures and Algorithms
 - 💬 Ask me about Data Science
-- 📫 How to reach me: $+254797817059$
+- 📫 How to reach me: <a href="tel:+254797817059">+254797817059</a>
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: typist
+- ⚡ Fun fact: am a faster typist
 

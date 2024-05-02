@@ -17,8 +17,8 @@
 <p align="center">
 	<a href="https://github.com/VictorOmondi1997"><img src="https://img.shields.io/github/followers/VictorOmondi1997.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/VictorOmondi197"><img src="https://img.shields.io/twitter/follow/VictorOmondi197?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/VictorOmondi1997"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://github.com/sponsors/VictorOmondi1997"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a>
+	<a href="https://www.linkedin.com/in/VictorOmondi1997"><img src="https://img.shields.io/badge/LinkedIn-55k-_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://github.com/sponsors/VictorOmondi1997"><img src="https://img.shields.io/badge/Sponsors-5-_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a>
 	<a href="https://scholar.google.com/citations?user=lZAdX3cAAAAJ=en"><img src="https://img.shields.io/badge/Citations-1.4k-_.svg?style=social&logo=google-scholar" alt="Scholars"></a>
 </p>
 
